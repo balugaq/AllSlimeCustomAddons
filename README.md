@@ -15,8 +15,6 @@
 
     - [魔法 - Magic](https://github.com/Yomicer/Magic_RSC) - Release-0.1.3
 
-    - [H公司 - HiveCorporation](https://github.com/1368139692/HiveCorporation/releases/tag/1.0.2) - 1.0.2 - 配置文件不公开
-
 - 已停更:
 
   - rsc:
@@ -24,6 +22,8 @@
     - [暮舟科技 - MuzhouTech](https://github.com/balugaq/MuzhouTech) - 1.0 SNAPSHOT
 
     - [粘液科技拓展 - Slimefunexpansion](https://github.com/ytdd9527/rsc-Slimefunexpansion) - 2.0
+
+    - [H公司 - HiveCorporation](https://github.com/1368139692/HiveCorporation/releases/tag/1.0.2) - 1.0.2
 
   - sc:
 
@@ -81,6 +81,8 @@
     - [旧版海曼科技](https://github.com/haiman233/HaimanTech-OldVersions)
 
     - [箔澜星 - TinselStar](https://github.com/haiman233/TinselStar)
+
+    - [大蛇科技 - BigSnake-Tech](https://github.com/haiman233/Slimefun4_Integration_package/tree/main/server/plugins/RykenSlimefunCustomizer/addons/BigSnake-Tech)
 
 
 将SC转为RSC需使用 [SC-to-RSC](https://github.com/SlimefunReloadingProject/SC-to-RSC)
