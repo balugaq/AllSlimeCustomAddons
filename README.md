@@ -68,11 +68,11 @@
 
     - 工业驱动 - 在QQ群 582922024 中群文件，需自行下载
 
-    - 黑鱼科技 - 未找到相关链接，仅在暮舟科技中存在
+    - 黑鱼科技 - 未找到相关资源链接，仅在暮舟科技中存在
 
     - AG科技 - 在QQ群 156188351 中群文件，需自行下载
 
-    - AkyierWorld物品 - 未找到相关链接，仅在暮舟科技中存在
+    - AkyierWorld物品 - 未找到相关资源链接，仅在暮舟科技中存在
 
     - [天璇科技](https://github.com/haiman233/MerakCraft)
 
@@ -83,6 +83,8 @@
     - [箔澜星 - TinselStar](https://github.com/haiman233/TinselStar)
 
     - [大蛇科技 - BigSnake-Tech](https://github.com/haiman233/Slimefun4_Integration_package/tree/main/server/plugins/RykenSlimefunCustomizer/addons/BigSnake-Tech)
+
+    - 幻冕科技 - 未找到相关资源链接
 
 
 将SC转为RSC需使用 [SC-to-RSC](https://github.com/SlimefunReloadingProject/SC-to-RSC)
