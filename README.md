@@ -8,6 +8,8 @@
     - [海曼科技院2 - HaimanTech2](https://github.com/haiman233/HaimanTech2) - Release-1.8
 
     - [纪元科技 - EpoTech](https://github.com/Jump9527/SlimeFun-RSC-EpoTech) - v1.0.7
+   
+    - [纪元科技拓展 - EpoTech-Extend](https://github.com/pinksheepYTG/EpoTech-Extend) - v6.6.6.6
 
     - [尘世百味 - WorldTaste](https://github.com/haiman233/WorldTaste) - Release-1.4
 
