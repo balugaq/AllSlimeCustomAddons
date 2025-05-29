@@ -5,7 +5,7 @@
 - 更新中:
 
   - rsc:
-    - [海曼科技院2 - HaimanTech2](https://github.com/haiman233/HaimanTech2) - Release-1.8
+    - [海曼科技院2 - HaimanTech2](https://github.com/haiman233/HaimanTech2) - Release-1.9
 
     - [纪元科技 - EpoTech](https://github.com/Jump9527/SlimeFun-RSC-EpoTech) - v1.0.7
    
@@ -15,7 +15,7 @@
 
     - [粘液科技及附属教程 - SFTeacher](https://github.com/haiman233/SFTeacher) - Release-1.0
 
-    - [魔法 - Magic](https://github.com/Yomicer/Magic_RSC) - Release-0.1.3
+    - [魔法 - Magic](https://github.com/Yomicer/Magic_RSC) - Release-0.1.5
 
 - 已停更:
 
