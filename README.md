@@ -55,7 +55,7 @@
 
     - [矿物生成器拓展 - OreGenerationExtension](https://github.com/HuoSJ7820/OreGenerationAndExtension/tree/main/SlimeCustomizer)
 
-    - [无尽拓展V2增强版](https://github.com/LuoYe5555/InfiniteExtensionV2-Reconfiguration) - beta-1.0
+    - [无尽拓展V2增强版 -  InfiniteExtensionV2-Reconfiguration](https://github.com/LuoYe5555/InfiniteExtensionV2-Reconfiguration) - beta-1.0
 
     - [SC修复站 - SlimeCustomizerRepairStation](https://github.com/HuoSJ7820/SlimeCustomizerRepairStation)
 
@@ -70,17 +70,17 @@
 
     - 工业驱动 - 在QQ群 582922024 中群文件，需自行下载
 
-    - 黑鱼科技 - 未找到相关资源链接，仅在暮舟科技中存在
+    - 黑鱼科技 - BlackFishTech - 未找到相关资源链接，仅在暮舟科技中存在
 
-    - AG科技 - 在QQ群 156188351 中群文件，需自行下载
+    - AG科技 - AGTech - 在QQ群 156188351 中群文件，需自行下载
 
     - AkyierWorld物品 - 未找到相关资源链接，仅在暮舟科技中存在
 
-    - [天璇科技](https://github.com/haiman233/MerakCraft)
+    - [天璇科技 - MerakCraft](https://github.com/haiman233/MerakCraft)
 
     - [宇宙科技](https://github.com/haiman233/HaimanTech-OldVersions/tree/main/%E4%B8%8A%E5%8F%A4%E7%89%88%E5%AE%87%E5%AE%99%E7%A7%91%E6%8A%80)
 
-    - [旧版海曼科技](https://github.com/haiman233/HaimanTech-OldVersions)
+    - [旧版海曼科技 - HaimanTech](https://github.com/haiman233/HaimanTech-OldVersions)
 
     - [箔澜星 - TinselStar](https://github.com/haiman233/TinselStar)
 
