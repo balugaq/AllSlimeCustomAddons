@@ -29,7 +29,7 @@
 
   - sc:
 
-    - [海曼科技院2 - HaimanTech2](https://github.com/haiman233/HaimanTech2) - Release-1.5.1
+    - [海曼科技院2 - HaimanTech2](https://github.com/haiman233/HaimanTech2) - Release-1.9.2
 
     - [无尽拓展V2 - InfiniteExtensionV2](https://github.com/HuoSJ7820/InfiniteExtensionV2)
 
