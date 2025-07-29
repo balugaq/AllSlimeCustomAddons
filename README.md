@@ -15,7 +15,7 @@
 
     - [粘液科技及附属教程 - SFTeacher](https://github.com/haiman233/SFTeacher) - Release-1.0
 
-    - [魔法 - Magic](https://github.com/Yomicer/Magic_RSC) - Release-0.1.5
+    - [魔法 - Magic](https://github.com/Yomicer/Magic_RSC) - Release-0.1.7
 
     - [粉羊科技 - PinksheepTech](https://github.com/pinksheepYTG/PinksheepTech) - Release-1.0.0.0
 
