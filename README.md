@@ -18,6 +18,8 @@
     - [魔法 - Magic](https://github.com/Yomicer/Magic_RSC) - Release-0.1.7
 
     - [粉羊科技 - PinksheepTech](https://github.com/pinksheepYTG/PinksheepTech) - Release-1.0.0.0
+   
+    - [冷殇科技 - LengShangTech](https://github.com/lengshang666/LengShangTech) - 1.0.3
 
 - 已停更:
 
