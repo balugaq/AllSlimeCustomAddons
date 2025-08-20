@@ -13,9 +13,9 @@
 
     - [尘世百味 - WorldTaste](https://github.com/haiman233/WorldTaste) - Release-1.5.4
 
-    - [粘液科技及附属教程 - SFTeacher](https://github.com/haiman233/SFTeacher) - Release-1.0
+    - [粘液科技及附属教程 - SFTeacher](https://github.com/haiman233/SFTeacher) - Release-1.1
 
-    - [魔法 - Magic](https://github.com/Yomicer/Magic_RSC) - Release-0.1.7
+    - [魔法 - Magic](https://github.com/Yomicer/Magic_RSC) - Release-0.1.8
 
     - [粉羊科技 - PinksheepTech](https://github.com/pinksheepYTG/PinksheepTech) - Release-1.0.0.1
    
