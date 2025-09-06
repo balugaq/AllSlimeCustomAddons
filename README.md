@@ -5,7 +5,7 @@
 - 更新中:
 
   - rsc:
-    - [海曼科技院 - HaimanTech2](https://github.com/haiman233/HaimanTech2) - Release-1.9.6
+    - [海曼科技院 - HaimanTech2](https://github.com/haiman233/HaimanTech2) - Release-1.9.7
 
     - [纪元科技 - EpoTech](https://github.com/Jump9527/SlimeFun-RSC-EpoTech) - v2.0.0
    
