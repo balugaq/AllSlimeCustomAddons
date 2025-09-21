@@ -5,7 +5,7 @@
 - 更新中:
 
   - rsc:
-    - [海曼科技院 - HaimanTech2](https://github.com/haiman233/HaimanTech2) - Release-1.9.7
+    - [海曼科技院 - HaimanTech2](https://github.com/haiman233/HaimanTech2) - Release-1.9.8
 
     - [纪元科技 - EpoTech](https://github.com/Jump9527/SlimeFun-RSC-EpoTech) - v2.0.0
    
@@ -17,7 +17,7 @@
 
     - [魔法 - Magic](https://github.com/Yomicer/Magic_RSC) - Release-1.1.2
 
-    - [粉羊科技 - PinksheepTech](https://github.com/pinksheepYTG/PinksheepTech) - Release-1.0.0.1
+    - [粉羊科技 - PinksheepTech](https://github.com/pinksheepYTG/PinksheepTech) - Release-1.0.0.2 - Rb1
    
     - [冷殇科技 - LengShangTech](https://github.com/lengshang666/LengShangTech) - 1.0.5
 
