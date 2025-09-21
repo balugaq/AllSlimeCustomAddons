@@ -19,7 +19,7 @@
 
     - [粉羊科技 - PinksheepTech](https://github.com/pinksheepYTG/PinksheepTech) - Release-1.0.0.2 - Rb1
    
-    - [冷殇科技 - LengShangTech](https://github.com/lengshang666/LengShangTech) - 1.0.5
+    - [冷殇科技 - LengShangTech](https://github.com/lengshang666/LengShangTech) - 1.0.7
 
 - 已停更:
 
