@@ -11,7 +11,7 @@
    
     - [纪元科技拓展 - EpoTech-Extend](https://github.com/pinksheepYTG/EpoTech-Extend) - v6.6.6.6
 
-    - [尘世百味 - WorldTaste](https://github.com/haiman233/WorldTaste) - Release-1.6
+    - [尘世百味 - WorldTaste](https://github.com/haiman233/WorldTaste) - Release-1.7
 
     - [粘液科技及附属教程 - SFTeacher](https://github.com/haiman233/SFTeacher) - Release-1.1
 
