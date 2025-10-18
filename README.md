@@ -8,18 +8,30 @@
     - [海曼科技院 - HaimanTech2](https://github.com/haiman233/HaimanTech2) - Release-1.9.9
 
     - [纪元科技 - EpoTech](https://github.com/Jump9527/SlimeFun-RSC-EpoTech) - v2.0.0
-   
+
     - [纪元科技拓展 - EpoTech-Extend](https://github.com/pinksheepYTG/EpoTech-Extend) - v6.6.6.6
 
-    - [尘世百味 - WorldTaste](https://github.com/haiman233/WorldTaste) - Release-1.7
+    - [尘世百味 - WorldTaste](https://github.com/haiman233/WorldTaste) - Release-1.8
 
     - [粘液科技及附属教程 - SFTeacher](https://github.com/haiman233/SFTeacher) - Release-1.1
 
-    - [魔法 - Magic](https://github.com/Yomicer/Magic_RSC) - Release-1.1.12
+    - [魔法 - Magic](https://github.com/Yomicer/Magic_RSC) - Release-1.1.15
 
     - [粉羊科技 - PinksheepTech](https://github.com/pinksheepYTG/PinksheepTech) - Release-1.0.0.2 - Rb1
-   
+
     - [冷殇科技 - LengShangTech](https://github.com/lengshang666/LengShangTech) - 1.0.8
+
+    - DFD - 无尽V2重构版 - DFD_InfiniteExtensionV2 - 在缘落之梦服务器中存在 (服务器QQ群号: 859957646)
+
+    - DFD - 缘落科技 - DFD_Expand - 在缘落之梦服务器中存在 (服务器QQ群号: 859957646)
+
+    - 方块树 - Blocktreetech - 在方块树服务器中存在 (服务器QQ群号: 953283758)
+
+    - TinCraft - TinCraft - 在TinCraft服务器中存在 (服务器QQ群号: 995464121)
+
+    - 浮木科技 - 浮木科技 - 在樱缘梦之乡服务器中存在 (服务器QQ群号: 785402436)
+
+    - HseerTech科技 - HseerTech - 在HSEERMC服务器中存在 (服务器QQ群号: 156188351)
 
 - 已停更:
 
@@ -30,8 +42,36 @@
     - [粘液科技拓展 - Slimefunexpansion](https://github.com/ytdd9527/rsc-Slimefunexpansion) - 2.0
 
     - [H公司 - HiveCorporation](https://github.com/1368139692/HiveCorporation/releases/tag/1.0.2) - 1.0.2
-   
-    - [火山科技 - HuoShanTech] - 1.0 - 
+
+    - [粘液科技拓展 - Slimefunexpansion](https://github.com/ytdd9527/rsc-Slimefunexpansion) - 1.0
+
+    - AG科技 - AgTech - 在QQ群 985241606 中群文件，需自行下载
+
+    - 生物科技 - MobTech(MT) - 在QQ群 985241606 中群文件，需自行下载
+
+    - (原版为SC)波奇科技 - Bocchitechnoloy - 在QQ群 985241606 中群文件，需自行下载
+
+    - (原版为SC)大蛇科技 - BigSnake-Tech - 在QQ群 985241606 中群文件，需自行下载
+
+    - (原版为SC)工业驱动 - snion - 在QQ群 985241606 中群文件，需自行下载
+
+    - (原版为SC)矿物科技 - OreTech - 在QQ群 985241606 中群文件，需自行下载
+
+    - (原版为SC)落叶科技 - DefoLiationTech - 在QQ群 985241606 中群文件，需自行下载
+
+    - (原版为SC)贪婪 - Greed - 在QQ群 985241606 中群文件，需自行下载
+
+    - (原版为SC)无尽拓展v2 - Reconfiguration - 在QQ群 985241606 中群文件，需自行下载
+
+    - (原版为SC)星辰科技 - XingCheng_Craft - 在QQ群 985241606 中群文件，需自行下载
+
+    - (原版为SC)亚星计划 - AsianStarProgram - 在QQ群 985241606 中群文件，需自行下载
+
+    - (原版为SC)湮灭科技 - AnnihilationTech - 在QQ群 985241606 中群文件，需自行下载
+
+    - (原版为SC)火山科技 - HuoShanTech - 1.0 - 在QQ群 985241606 中群文件，需自行下载
+
+    - 简单科技 - SimpleTech - 未找到相关资源链接
 
   - sc:
 
@@ -46,7 +86,7 @@
     - [创世 - Creation](https://github.com/HuoSJ7820/GreedAndCreation/tree/main/Creation/SlimeCustomizer)
 
     - [落叶科技 - DefoliationTech](https://github.com/LuoYe5555/DefoLiationTech)
-  
+
     - [波奇科技 - Bocchi_Technology](https://github.com/bocchiyigexu/Bocchi_Technology)
 
     - [矿物科技 - OreTech](https://github.com/HiTech0926/SC-OreTech) - BETA-1.02
@@ -70,18 +110,16 @@
     - [头颅版量子存储 - HeadQuantumStorage](https://github.com/HuoSJ7820/HeadQuantumStorage)
 
     - [更多奇特的工具 - MoreUniqueTools](https://github.com/HuoSJ7820/MoreUniqueTools)
-    
+
     - [湮灭科技 - Annihilation_Tech](https://github.com/Assisanter138/Annihilation_Tech)
 
     - 亚星计划 - AsianStarProgram - 在QQ群 606776359 中群文件，需自行下载
 
-    - 工业驱动 - 在QQ群 582922024 中群文件，需自行下载
+    - 工业驱动 - snion - 在QQ群 582922024 中群文件，需自行下载
 
     - 黑鱼科技 - BlackFishTech - 未找到相关资源链接，仅在暮舟科技中存在
 
     - AG科技 - AGTech - 在QQ群 156188351 中群文件，需自行下载
-
-    - AkyierWorld物品 - 未找到相关资源链接，仅在暮舟科技中存在
 
     - [天璇科技 - MerakCraft](https://github.com/haiman233/MerakCraft)
 
@@ -93,9 +131,11 @@
 
     - [大蛇科技 - BigSnake-Tech](https://github.com/haiman233/Slimefun4_Integration_package/tree/main/server/plugins/RykenSlimefunCustomizer/addons/BigSnake-Tech)
 
+    - AkyierWorld物品 - 未找到相关资源链接，仅在暮舟科技中存在
+
     - 幻冕科技 - 未找到相关资源链接
 
 
-将SC转为RSC需使用 [SC-to-RSC](https://github.com/SlimefunReloadingProject/SC-to-RSC)
+将SC转为RSC需使用 [SC-to-RSC](https://github.com/balugaq/SC-to-RSC)
 
-如有侵权请联系 [balugaq](https://github.com//balugaq) 或 QQ 2793572961
+如有侵权请联系 balugaq@qq.com
