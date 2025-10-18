@@ -19,7 +19,7 @@
 
     - [粉羊科技 - PinksheepTech](https://github.com/pinksheepYTG/PinksheepTech) - Release-1.0.0.2 - Rb1
    
-    - [冷殇科技 - LengShangTech](https://github.com/lengshang666/LengShangTech) - 1.0.7
+    - [冷殇科技 - LengShangTech](https://github.com/lengshang666/LengShangTech) - 1.0.8
 
 - 已停更:
 
@@ -30,6 +30,8 @@
     - [粘液科技拓展 - Slimefunexpansion](https://github.com/ytdd9527/rsc-Slimefunexpansion) - 2.0
 
     - [H公司 - HiveCorporation](https://github.com/1368139692/HiveCorporation/releases/tag/1.0.2) - 1.0.2
+   
+    - [火山科技 - HuoShanTech] - 1.0 - 
 
   - sc:
 
@@ -68,6 +70,7 @@
     - [头颅版量子存储 - HeadQuantumStorage](https://github.com/HuoSJ7820/HeadQuantumStorage)
 
     - [更多奇特的工具 - MoreUniqueTools](https://github.com/HuoSJ7820/MoreUniqueTools)
+    
     - [湮灭科技 - Annihilation_Tech](https://github.com/Assisanter138/Annihilation_Tech)
 
     - 亚星计划 - AsianStarProgram - 在QQ群 606776359 中群文件，需自行下载
