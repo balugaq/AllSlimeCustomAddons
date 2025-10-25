@@ -19,7 +19,7 @@
 
     - [粉羊科技 - PinksheepTech](https://github.com/pinksheepYTG/PinksheepTech) - Release-1.0.0.2 - Rb1
 
-    - [冷殇科技 - LengShangTech](https://github.com/lengshang666/LengShangTech) - 1.0.8
+    - [冷殇科技 - LengShangTech](https://github.com/lengshang666/LengShangTech) - 1.0.9
 
     - DFD - 无尽V2重构版 - DFD_InfiniteExtensionV2 - 在缘落之梦服务器中存在 (服务器QQ群号: 859957646)
 
