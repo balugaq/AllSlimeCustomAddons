@@ -5,13 +5,13 @@
 - 更新中:
 
   - rsc:
-    - [海曼科技院 - HaimanTech2](https://github.com/haiman233/HaimanTech2) - Release-1.9.9
+    - [海曼科技院 - HaimanTech2](https://github.com/haiman233/HaimanTech2) - Release-1.9.10
 
     - [纪元科技 - EpoTech](https://github.com/Jump9527/SlimeFun-RSC-EpoTech) - v2.0.0
 
     - [纪元科技拓展 - EpoTech-Extend](https://github.com/pinksheepYTG/EpoTech-Extend) - v6.6.6.6
 
-    - [尘世百味 - WorldTaste](https://github.com/haiman233/WorldTaste) - Release-1.8
+    - [尘世百味 - WorldTaste](https://github.com/haiman233/WorldTaste) - Release-1.8.1
 
     - [粘液科技及附属教程 - SFTeacher](https://github.com/haiman233/SFTeacher) - Release-1.1
 
