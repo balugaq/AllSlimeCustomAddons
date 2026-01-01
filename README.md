@@ -5,21 +5,21 @@
 - 更新中:
 
   - rsc:
-    - [海曼科技院 - HaimanTech2](https://github.com/haiman233/HaimanTech2) - Release-1.9.10
+    - [海曼科技院 - HaimanTech2](https://github.com/haiman233/HaimanTech2)
 
-    - [纪元科技 - EpoTech](https://github.com/Jump9527/SlimeFun-RSC-EpoTech) - v2.0.0
+    - [纪元科技 - EpoTech](https://github.com/Jump9527/SlimeFun-RSC-EpoTech)
 
-    - [纪元科技拓展 - EpoTech-Extend](https://github.com/pinksheepYTG/EpoTech-Extend) - v6.6.6.6
+    - [纪元科技拓展 - EpoTech-Extend](https://github.com/pinksheepYTG/EpoTech-Extend)
 
-    - [尘世百味 - WorldTaste](https://github.com/haiman233/WorldTaste) - Release-1.8.2
+    - [尘世百味 - WorldTaste](https://github.com/haiman233/WorldTaste)
 
-    - [粘液科技及附属教程 - SFTeacher](https://github.com/haiman233/SFTeacher) - Release-1.1
+    - [粘液科技及附属教程 - SFTeacher](https://github.com/haiman233/SFTeacher)
 
-    - [魔法 - Magic](https://github.com/Yomicer/Magic_RSC) - Release-1.1.15
+    - [魔法 - Magic](https://github.com/Yomicer/Magic_RSC)
 
-    - [粉羊科技 - PinksheepTech](https://github.com/pinksheepYTG/PinksheepTech) - Release-1.0.0.2 - Rb1
+    - [粉羊科技 - PinksheepTech](https://github.com/pinksheepYTG/PinksheepTech)
 
-    - [冷殇科技 - LengShangTech](https://github.com/lengshang666/LengShangTech) - 1.0.9
+    - [冷殇科技 - LengShangTech](https://github.com/lengshang666/LengShangTech)
 
     - DFD - 无尽V2重构版 - DFD_InfiniteExtensionV2 - 在缘落之梦服务器中存在 (服务器QQ群号: 859957646)
 
@@ -37,13 +37,13 @@
 
   - rsc:
 
-    - [暮舟科技 - MuzhouTech](https://github.com/balugaq/MuzhouTech) - 1.0 SNAPSHOT
+    - [暮舟科技 - MuzhouTech](https://github.com/balugaq/MuzhouTech)
 
-    - [粘液科技拓展 - Slimefunexpansion](https://github.com/ytdd9527/rsc-Slimefunexpansion) - 2.0
+    - [粘液科技拓展 - Slimefunexpansion](https://github.com/ytdd9527/rsc-Slimefunexpansion)
 
-    - [H公司 - HiveCorporation](https://github.com/1368139692/HiveCorporation/releases/tag/1.0.2) - 1.0.2
+    - [H公司 - HiveCorporation](https://github.com/1368139692/HiveCorporation/releases/tag/1.0.2)
 
-    - [粘液科技拓展 - Slimefunexpansion](https://github.com/ytdd9527/rsc-Slimefunexpansion) - 1.0
+    - [粘液科技拓展 - Slimefunexpansion](https://github.com/ytdd9527/rsc-Slimefunexpansion)
 
     - AG科技 - AgTech - 在QQ群 985241606 中群文件，需自行下载
 
@@ -69,13 +69,13 @@
 
     - (原版为SC)湮灭科技 - AnnihilationTech - 在QQ群 985241606 中群文件，需自行下载
 
-    - (原版为SC)火山科技 - HuoShanTech - 1.0 - 在QQ群 985241606 中群文件，需自行下载
+    - (原版为SC)火山科技 - HuoShanTech - 在QQ群 985241606 中群文件，需自行下载
 
     - 简单科技 - SimpleTech - 未找到相关资源链接
 
   - sc:
 
-    - [海曼科技院2 - HaimanTech2](https://github.com/haiman233/HaimanTech2) - Release-1.5.1
+    - [海曼科技院2 - HaimanTech2](https://github.com/haiman233/HaimanTech2)
 
     - [无尽拓展V2 - InfiniteExtensionV2](https://github.com/HuoSJ7820/InfiniteExtensionV2)
 
@@ -89,19 +89,19 @@
 
     - [波奇科技 - Bocchi_Technology](https://github.com/bocchiyigexu/Bocchi_Technology)
 
-    - [矿物科技 - OreTech](https://github.com/HiTech0926/SC-OreTech) - BETA-1.02
+    - [矿物科技 - OreTech](https://github.com/HiTech0926/SC-OreTech)
 
     - [Hi世界科技 - HiServerTech](https://github.com/HiTech0926/HiServerTech-SlimeCustomizer)
 
     - 注: 根据 [Hi世界说明书](https://github.com/HiTech0926/HiServerTech-SlimeCustomizer/blob/main/items.yml#L10) [Hi世界科技 - HiServerTech](https://github.com/HiTech0926/HiServerTech-SlimeCustomizer) **未经允许禁止在其他服务器发布**
 
-    - [星辰工艺 - XingCheng_Craft](https://github.com/fengxiangQAQ/XingCheng_Craft) - BETA2.1
+    - [星辰工艺 - XingCheng_Craft](https://github.com/fengxiangQAQ/XingCheng_Craft)
 
-    - [生物科技 - HLGTech](https://github.com/bocchiyigexu/SHENGWUTECH) - BETA-1.2
+    - [生物科技 - HLGTech](https://github.com/bocchiyigexu/SHENGWUTECH)
 
     - [矿物生成器拓展 - OreGenerationExtension](https://github.com/HuoSJ7820/OreGenerationAndExtension/tree/main/SlimeCustomizer)
 
-    - [无尽拓展V2增强版 -  InfiniteExtensionV2-Reconfiguration](https://github.com/LuoYe5555/InfiniteExtensionV2-Reconfiguration) - beta-1.0
+    - [无尽拓展V2增强版 -  InfiniteExtensionV2-Reconfiguration](https://github.com/LuoYe5555/InfiniteExtensionV2-Reconfiguration)
 
     - [SC修复站 - SlimeCustomizerRepairStation](https://github.com/HuoSJ7820/SlimeCustomizerRepairStation)
 
