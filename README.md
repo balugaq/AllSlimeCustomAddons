@@ -21,17 +21,17 @@
 
     - [冷殇科技 - LengShangTech](https://github.com/lengshang666/LengShangTech)
 
-    - DFD - 无尽V2重构版 - DFD_InfiniteExtensionV2 - 在缘落之梦服务器中存在 (服务器QQ群号: 859957646)
+    - DFD - 无尽V2重构版 - DFD_InfiniteExtensionV2 - 在缘落之梦服务器中存在 (服务器QQ群号: [859957646](https://qm.qq.com/q/jbnsIMiQj8))
 
-    - DFD - 缘落科技 - DFD_Expand - 在缘落之梦服务器中存在 (服务器QQ群号: 859957646)
+    - DFD - 缘落科技 - DFD_Expand - 在缘落之梦服务器中存在 (服务器QQ群号: [859957646](https://qm.qq.com/q/jbnsIMiQj8))
 
-    - 方块树 - Blocktreetech - 在方块树服务器中存在 (服务器QQ群号: 953283758)
+    - 方块树 - Blocktreetech - 在方块树服务器中存在 (服务器QQ群号: [953283758](https://qm.qq.com/q/KphcaUqEEY))
 
-    - TinCraft - TinCraft - 在TinCraft服务器中存在 (服务器QQ群号: 995464121)
+    - TinCraft - TinCraft - 在TinCraft服务器中存在 (服务器旧QQ群号: [995464121](https://qm.qq.com/q/BOGPW2oc6W))
 
-    - 浮木科技 - 浮木科技 - 在樱缘梦之乡服务器中存在 (服务器QQ群号: 785402436)
+    - 浮木科技 - 浮木科技 - 在樱缘梦之乡服务器中存在 (服务器QQ群号: [785402436](https://qm.qq.com/q/kZ9Vl5gcNy))
 
-    - HseerTech科技 - HseerTech - 在HSEERMC服务器中存在 (服务器QQ群号: 156188351)
+    - HseerTech科技 - HseerTech - 在HSEERMC服务器中存在 (服务器QQ群号: [156188351](https://qm.qq.com/q/4VDyiFLIog))
 
 - 已停更:
 
@@ -45,31 +45,31 @@
 
     - [粘液科技拓展 - Slimefunexpansion](https://github.com/ytdd9527/rsc-Slimefunexpansion)
 
-    - AG科技 - AgTech - 在QQ群 985241606 中群文件，需自行下载
+    - AG科技 - AgTech - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
 
-    - 生物科技 - MobTech(MT) - 在QQ群 985241606 中群文件，需自行下载
+    - 生物科技 - MobTech(MT) - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
 
-    - (原版为SC)波奇科技 - Bocchitechnoloy - 在QQ群 985241606 中群文件，需自行下载
+    - (原版为SC)波奇科技 - Bocchitechnoloy - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
 
-    - (原版为SC)大蛇科技 - BigSnake-Tech - 在QQ群 985241606 中群文件，需自行下载
+    - (原版为SC)大蛇科技 - BigSnake-Tech - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
 
-    - (原版为SC)工业驱动 - snion - 在QQ群 985241606 中群文件，需自行下载
+    - (原版为SC)工业驱动 - snion - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
 
-    - (原版为SC)矿物科技 - OreTech - 在QQ群 985241606 中群文件，需自行下载
+    - (原版为SC)矿物科技 - OreTech - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
 
-    - (原版为SC)落叶科技 - DefoLiationTech - 在QQ群 985241606 中群文件，需自行下载
+    - (原版为SC)落叶科技 - DefoLiationTech - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
 
-    - (原版为SC)贪婪 - Greed - 在QQ群 985241606 中群文件，需自行下载
+    - (原版为SC)贪婪 - Greed - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
 
-    - (原版为SC)无尽拓展v2 - Reconfiguration - 在QQ群 985241606 中群文件，需自行下载
+    - (原版为SC)无尽拓展v2 - Reconfiguration - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
 
-    - (原版为SC)星辰科技 - XingCheng_Craft - 在QQ群 985241606 中群文件，需自行下载
+    - (原版为SC)星辰科技 - XingCheng_Craft - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
 
-    - (原版为SC)亚星计划 - AsianStarProgram - 在QQ群 985241606 中群文件，需自行下载
+    - (原版为SC)亚星计划 - AsianStarProgram - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
 
-    - (原版为SC)湮灭科技 - AnnihilationTech - 在QQ群 985241606 中群文件，需自行下载
+    - (原版为SC)湮灭科技 - AnnihilationTech - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
 
-    - (原版为SC)火山科技 - HuoShanTech - 在QQ群 985241606 中群文件，需自行下载
+    - (原版为SC)火山科技 - HuoShanTech - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
 
     - 简单科技 - SimpleTech - 未找到相关资源链接
 
@@ -91,9 +91,7 @@
 
     - [矿物科技 - OreTech](https://github.com/HiTech0926/SC-OreTech)
 
-    - [Hi世界科技 - HiServerTech](https://github.com/HiTech0926/HiServerTech-SlimeCustomizer)
-
-    - 注: 根据 [Hi世界说明书](https://github.com/HiTech0926/HiServerTech-SlimeCustomizer/blob/main/items.yml#L10) [Hi世界科技 - HiServerTech](https://github.com/HiTech0926/HiServerTech-SlimeCustomizer) **未经允许禁止在其他服务器发布**
+    - [Hi世界科技 - HiServerTech](https://github.com/HiTech0926/HiServerTech-SlimeCustomizer) 注: 根据 [Hi世界说明书](https://github.com/HiTech0926/HiServerTech-SlimeCustomizer/blob/main/items.yml#L10): [Hi世界科技 - HiServerTech](https://github.com/HiTech0926/HiServerTech-SlimeCustomizer) **未经允许禁止在其他服务器发布**
 
     - [星辰工艺 - XingCheng_Craft](https://github.com/fengxiangQAQ/XingCheng_Craft)
 
@@ -115,11 +113,11 @@
 
     - 亚星计划 - AsianStarProgram - 在QQ群 606776359 中群文件，需自行下载
 
-    - 工业驱动 - snion - 在QQ群 582922024 中群文件，需自行下载
+    - 工业驱动 - snion - 在QQ群 [582922024](https://qm.qq.com/q/e6VzosVepy) 中群文件，需自行下载
 
     - 黑鱼科技 - BlackFishTech - 未找到相关资源链接，仅在暮舟科技中存在
 
-    - AG科技 - AGTech - 在QQ群 156188351 中群文件，需自行下载
+    - AG科技 - AGTech - 在QQ群 [156188351](https://qm.qq.com/q/4VDyiFLIog) 中群文件，需自行下载
 
     - [天璇科技 - MerakCraft](https://github.com/haiman233/MerakCraft)
 
