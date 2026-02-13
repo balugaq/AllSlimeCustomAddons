@@ -33,7 +33,7 @@
 
     - HseerTech科技 - HseerTech - 在HSEERMC服务器中存在 (服务器QQ群号: [156188351](https://qm.qq.com/q/4VDyiFLIog))
    
-    - 云启文明 - RSC_YunQi_History - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
+    - (云启文明 - RSC_YunQi_History](https://github.com/Yunsheng999/YunQi_history)
 
 - 已停更:
 
