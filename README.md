@@ -32,6 +32,8 @@
     - 浮木科技 - 浮木科技 - 在樱缘梦之乡服务器中存在 (服务器QQ群号: [785402436](https://qm.qq.com/q/kZ9Vl5gcNy))
 
     - HseerTech科技 - HseerTech - 在HSEERMC服务器中存在 (服务器QQ群号: [156188351](https://qm.qq.com/q/4VDyiFLIog))
+   
+    - 云启文明 - RSC_YunQi_History - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
 
 - 已停更:
 
