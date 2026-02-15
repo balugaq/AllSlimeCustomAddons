@@ -1,4 +1,4 @@
-![945e2dcb3581b9cff9c624b683804d07](https://github.com/user-attachments/assets/dc1a37b5-02e8-415f-8ade-c43a55802adb)# AllSlimeCustomAddons
+# AllSlimeCustomAddons
 
 所有的配置文件均由相关作者在 GitHub 或 QQ 群公开提供，此仓库仅列出这些配置文件的链接，不会对内容的真实性、兼容性、可用性进行检验。出现任何问题请寻找作者。
 
