@@ -1,4 +1,4 @@
-# AllSlimeCustomAddons
+![945e2dcb3581b9cff9c624b683804d07](https://github.com/user-attachments/assets/dc1a37b5-02e8-415f-8ade-c43a55802adb)# AllSlimeCustomAddons
 
 所有的配置文件均由相关作者在 GitHub 或 QQ 群公开提供，此仓库仅列出这些配置文件的链接，不会对内容的真实性、兼容性、可用性进行检验。出现任何问题请寻找作者。
 
@@ -34,6 +34,16 @@
     - HseerTech科技 - HseerTech - 在HSEERMC服务器中存在 (服务器QQ群号: [156188351](https://qm.qq.com/q/4VDyiFLIog))
    
     - [云启文明 - RSC_YunQi_History](https://github.com/Yunsheng999/YunQi_history)
+   
+    - (原版为SC)[箔澜星(改版) - TinselStar](https://github.com/lengshang666/TinselStar)
+   
+    - 口木科技 - Komutech - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
+   
+    - 起源工艺 - OriginTech - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
+   
+    - fvv_Tech - fvvtech - 在暮舟服务器中存在 (服务器QQ群号: [730502518](https://qm.qq.com/q/TX3wLbE8cG))
+   
+    - 飞龙科技 - AeroDragonTech - 在暮舟服务器中存在 (服务器QQ群号: [730502518](https://qm.qq.com/q/TX3wLbE8cG))
 
 - 已停更:
 
@@ -73,7 +83,7 @@
 
     - (原版为SC)火山科技 - HuoShanTech - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
 
-    - 简单科技 - SimpleTech - 未找到相关资源链接
+    - 简单科技 - SimpleTech - 未找到相关资源链接（曾在[魔芋服务器 - 783629843](https://qm.qq.com/q/UsGovcMU02)中存在）
 
   - sc:
 
