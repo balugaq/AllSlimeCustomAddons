@@ -29,7 +29,7 @@
 
     - TinCraft - TinCraft - 在TinCraft服务器中存在 (服务器旧QQ群号: [995464121](https://qm.qq.com/q/BOGPW2oc6W))
 
-    - [浮木科技 - 浮木科技](https://github.com/Yomicer/FM_TECH_RSC)
+    - [浮木科技 - fm_tech](https://github.com/Yomicer/FM_TECH_RSC)
 
     - HseerTech科技 - HseerTech - 在HSEERMC服务器中存在 (服务器QQ群号: [156188351](https://qm.qq.com/q/4VDyiFLIog))
    
