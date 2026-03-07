@@ -46,6 +46,8 @@
     - 飞龙科技 - AeroDragonTech - 在暮舟服务器中存在 (服务器QQ群号: [730502518](https://qm.qq.com/q/TX3wLbE8cG))
    
     - 沐莱物语 - REGS - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
+   
+    - [风起科技 - FengQi_Tech](https://github.com/LuoYe5555/FengQiTech)
 
 - 已停更:
 
