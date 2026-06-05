@@ -84,6 +84,12 @@
 
   - 简单科技 - SimpleTech - 未找到相关资源链接（曾在[魔芋服务器 - 783629843](https://qm.qq.com/q/UsGovcMU02)中存在）
 
+  - GLTC联合协议 - GLTC121 - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
+
+  - 樱沫科技 - YINGMO - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
+
+  - 熊猫科技 - PandaTech - 在QQ群 [985241606](https://qm.qq.com/q/1furIGAaz6) 中群文件，需自行下载
+
 # SC 附属
 
   - [海曼科技院2 - HaimanTech2](https://github.com/haiman233/HaimanTech2)
